@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/static/js/main.4408ec80.js",
-    "static/js/787.a0dbddbf.chunk.js": "/static/js/787.a0dbddbf.chunk.js",
-    "index.html": "/index.html",
-    "main.4408ec80.js.map": "/static/js/main.4408ec80.js.map",
-    "787.a0dbddbf.chunk.js.map": "/static/js/787.a0dbddbf.chunk.js.map"
+    "main.js": "/LifeLineLabAssesment/static/js/main.1f6107c7.js",
+    "static/js/787.a0dbddbf.chunk.js": "/LifeLineLabAssesment/static/js/787.a0dbddbf.chunk.js",
+    "index.html": "/LifeLineLabAssesment/index.html",
+    "main.1f6107c7.js.map": "/LifeLineLabAssesment/static/js/main.1f6107c7.js.map",
+    "787.a0dbddbf.chunk.js.map": "/LifeLineLabAssesment/static/js/787.a0dbddbf.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.4408ec80.js"
+    "static/js/main.1f6107c7.js"
   ]
 }
